@@ -1,7 +1,5 @@
-# Github Actions - Hands-on practice 
-This repo is a fork from https://github.com/Link-/ci-cd-intro by Bassem
-
-<a href="https://www.youtube.com/playlist?list=PLArH6NjfKsUhvGHrpag7SuPumMzQRhUKY" target="_blank"> </a>
+## Github Actions - Hands-on practice 
+This project is a fork of [Github action course](https://github.com/Link-/ci-cd-intro) . Modified for personal learning and experimentation with Kubernetes.
 
 ## Project structure
 
